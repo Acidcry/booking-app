@@ -1,1 +1,1 @@
-# booking-app
+# This is my learning project.

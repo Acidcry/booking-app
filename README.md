@@ -1,1 +1,1 @@
-# This is my learning project.
+# This is my learning pet-project.

@@ -1,1 +1,1 @@
-# This is my learning pet-project.
+# This is my golang project.
